@@ -11,7 +11,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working <a href="https://www2.retornar.com.br/" rel="nofollow">@retornar</a>.</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Graduating Software engineering in <a href="https://www.senaipr.org.br/" rel="nofollow">SENAI</a>.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Graduating <strong><strong>Software engineering</strong></strong> in <a href="https://www.senaipr.org.br/" rel="nofollow">SENAI</a>.</p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning <strong>Backend<strong> and Databases principles.</strong></strong></p><strong><strong>
