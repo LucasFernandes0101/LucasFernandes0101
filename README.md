@@ -8,13 +8,13 @@
 <li><strong>Livin in:</strong> Londrina, Brazil</li>
 </ul>
 <ul dir="auto"><li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working <a href="https://www2.retornar.com.br/" rel="nofollow">@retornar</a>.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working <a href="https://www.localiza.com/" rel="nofollow">@localiza</a>.</p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Graduating <strong><strong>Software engineering</strong></strong> in <a href="https://www.senaipr.org.br/" rel="nofollow">SENAI</a>.</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning <strong>Backend<strong> and Databases principles.</strong></strong></p><strong><strong>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning <strong>Backend<strong> and Cloud principles.</strong></strong></p><strong><strong>
 </strong></strong></li><strong><strong>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="eye" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png">👁️</g-emoji> I’m looking to collaborate on more open-source projects.</p>
@@ -28,7 +28,8 @@
 <p dir="auto"><strong><strong>2020:</strong></strong> Certificated by <a href="http://www.portaldaindustria.com.br/senai/en/about/senai/" rel="nofollow">SENAI</a> in <strong>System Analysis and Development</strong><br>
 <strong><strong>2021:</strong></strong> Started my degree as a <strong>software engineer</strong> at <a href="https://www.senaipr.org.br/" rel="nofollow">SENAI</a><br>
 <strong><strong>2021 → 2021/04:</strong></strong> Trainee Developer at Medmobi, a telemedicine startup<br>
-<strong><strong>2021/04 → Current:</strong></strong> Backend Developer at <a href="https://www2.retornar.com.br/" rel="nofollow">retornar</a>, a philanthropic company<br>
+<strong><strong>2021/04 → 2022/07:</strong></strong> Backend Developer at <a href="https://www2.retornar.com.br/" rel="nofollow">retornar</a>, a philanthropic company<br>
+<strong><strong>2022/07 → Current:</strong></strong> Software Developer at <a href="https://www.localiza.com/" rel="nofollow">localiza</a>, building the future of mobility<br>
 </p>
 </article>
   </div>
